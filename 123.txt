@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 abcd
+=======
+Git is a distributed version control system.
+Git is free software distributed under the GPL
+---HTTP CHANGETO SSH---
+git remote rm origin
+---CHECK CURRENT LINK WAY---
+git remove -v
+---PUSH---
+git push origin master
+---ADD TO TEMPOROAY AREA---
+git add [file]
+>>>>>>> dev
